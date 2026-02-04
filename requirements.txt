@@ -1,0 +1,16 @@
+# OTC Signal Engine Dependencies
+# Core
+pillow>=10.0.0
+mss>=9.0.1
+numpy>=1.24.0
+pytesseract>=0.3.10
+
+# UI/Alerts
+colorama>=0.4.6
+rich>=13.0.0
+
+# Audio alerts (optional)
+# winsound is built into Windows, no pip install needed
+
+# Development
+pytest>=7.4.0
